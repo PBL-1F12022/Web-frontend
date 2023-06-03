@@ -4,4 +4,4 @@ A platform to connect investors and entrepreneurs for equity-based business inve
 
 ## Website:
 
-### [visit link](https://pitchnfund.up.railway.app/)
+### [visit link]([[https://pitchnfund.up.railway.app](https://pitch-n-fund-website.vercel.app/)/](https://pitch-n-fund-website.vercel.app/))
